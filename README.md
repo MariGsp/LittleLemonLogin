@@ -1,3 +1,4 @@
 Practice project for login screen
 
-![LittleLemonLogin](https://github.com/MariGsp/LittleLemonLogin/assets/47831753/22bddbca-8078-4a0a-9df1-2e9d1f47ad41)
+![image](https://github.com/MariGsp/LittleLemonLogin/assets/47831753/c9f96fa8-cc98-4c6c-9e01-f436ff003d17)
+
